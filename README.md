@@ -14,3 +14,6 @@
 # Real-Time Instance Segmentation on Raspberry
 # Optical Flow Tracking On Raspberry
 # GAN Based Video Decoder
+#Guide to make object detection application.
+##Step 1
+label object with solid line, and convert label data to csv file by label2csv.py.
