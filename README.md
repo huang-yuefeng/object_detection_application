@@ -14,4 +14,4 @@ export trained model to pb file for mobile phone by run export_trained_model.sh.
 ##Step 5
 test pf file by run detect_single_threaded.py.
 
-*python file is used to as backup file FYI.
+python file is used to as backup file FYI.
