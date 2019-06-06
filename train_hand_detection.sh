@@ -1,0 +1,1 @@
+python ./object_detection/model_main.py     --pipeline_config_path=./data/faster_rcnn_resnet101_pets.config     --model_dir=./data/    --num_train_steps=50000     --sample_1_of_n_eval_examples=1  --alsologtostderr
