@@ -1,5 +1,5 @@
 #Guide to make object detection application.
-##Step 1
+[##Step 1
 label object with solid line, and convert label data to csv file by label2csv.py.
 ##Step 2
 git the work folder of tensorflow object detection api home folder https://github.com/tensorflow/models/tree/master/research/object_detection.
@@ -14,4 +14,4 @@ export trained model to pb file for mobile phone by run export_trained_model.sh.
 ##Step 5
 test pf file by run detect_single_threaded.py.
 
-python file is used to as backup file FYI.
+*python file is used to as backup file FYI.]
